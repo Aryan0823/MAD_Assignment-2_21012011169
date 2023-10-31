@@ -1,0 +1,82 @@
+{
+  "Categories": {
+    "Common Foods": {
+      "BAJRA": {
+        "Moisture": 12.4,
+        "Protein": 11.6,
+        "Fat": 5,
+        "Minerals": 2.3,
+        "Fibre": 1.2,
+        "Carbos": 67.5,
+        "Energy": 361,
+        "Calcium": 42,
+        "Phosphorous": 296,
+        "Iron": 8
+      },
+      "BARLEY": {
+        "Moisture": 12,
+        "Protein": 11,
+        "Fat": 1,
+        "Minerals": 1,
+        "Fibre": 4,
+        "Carbos": 70,
+        "Energy": 336,
+        "Calcium": 26,
+        "Phosphorous": 215,
+        "Iron": 2
+      }
+    },
+    "Pulses And Legumes": {
+      "BENGAL GRAM, whole": {
+        "Moisture": 9.8,
+        "Protein": 17.1,
+        "Fat": 5.3,
+        "Minerals": 3,
+        "Fibre": 3.9,
+        "Carbos": 60.9,
+        "Energy": 360,
+        "Calcium": 202,
+        "Phosphorous": 312,
+        "Iron": 4.6
+      },
+      "BENGAL GRAM, dhal": {
+        "Moisture": 10,
+        "Protein": 21,
+        "Fat": 6,
+        "Minerals": 3,
+        "Fibre": 1,
+        "Carbos": 60,
+        "Energy": 372,
+        "Calcium": 56,
+        "Phosphorous": 331,
+        "Iron": 5
+      }
+    },
+    "Leafy Vegetables": {
+      "AGATHI": {
+        "Moisture": 73,
+        "Protein": 8,
+        "Fat": 1,
+        "Minerals": 3,
+        "Fibre": 2,
+        "Carbos": 12,
+        "Energy": 93,
+        "Calcium": 1130,
+        "Phosphorous": 80,
+        "Iron": 4
+      },
+      "AMARANTH caudatus": {
+        "Moisture": 90,
+        "Protein": 3,
+        "Fat": 1,
+        "Minerals": 3,
+        "Fibre": 1,
+        "Carbos": 2,
+        "Energy": 26,
+        "Calcium": 200,
+        "Phosphorous": 40,
+        "Iron": 0
+      }
+    }
+  }
+}
